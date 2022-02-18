@@ -28,3 +28,7 @@ export PYLON_CAMEMU=1
     cmake ..
     cmake --build .
 ```
+
+#### Others SDK: 
+- [Allied Vision Vimba SDK](https://github.com/simoberny/Vimba-CMake)
+- [Teledyne FLIR Spinnaker](https://github.com/simoberny/Spinnaker-CMake)
